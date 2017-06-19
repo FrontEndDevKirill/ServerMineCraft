@@ -14,7 +14,7 @@ claim:
       bog: 400000
       admin: 500000
       gladmin: 1000000
-      glav: 9999999
+      glav: 999999999999999
 regionprotect:
   flow:
     lava:

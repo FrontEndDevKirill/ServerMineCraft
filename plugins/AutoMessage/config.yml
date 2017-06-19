@@ -17,7 +17,7 @@ settings:
 message-lists:
   regular:
     enabled: true
-    interval: 30
+    interval: 90
     expiry: -1
     random: true
     messages:

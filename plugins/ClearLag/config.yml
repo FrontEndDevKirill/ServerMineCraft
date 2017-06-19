@@ -226,7 +226,7 @@ auto-removal:
   enabled: true
   broadcast-message: '&6[Уборщик] &aУбрано +RemoveAmount мусора!'
   broadcast-removal: false
-  autoremoval-interval: 360
+  autoremoval-interval: 960
   world-filter:
   # - this_world <-This world will be ignored during removal!
   boat: true
@@ -248,15 +248,15 @@ auto-removal:
   # - Minecart !isMounted <- This entity will be REMOVED if it's NOT mounted
   # - Wolf !hasName <- This entity will be REMOVED if it doesn't have a name
   warnings:
-        - 'time:359 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
-        - 'time:358 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
-        - 'time:357 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
-        - 'time:356 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
-        - 'time:355 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
-        - 'time:350 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
-        - 'time:340 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
-        - 'time:330 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
-        - 'time:300 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
+        - 'time:959 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
+        - 'time:958 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
+        - 'time:957 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
+        - 'time:956 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
+        - 'time:955 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
+        - 'time:950 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
+        - 'time:940 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
+        - 'time:930 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
+        - 'time:900 msg:&4[Уборщик] &cМусор будет убран через &7+remaining &cсекунд!'
 
 #What should be removed during /lagg clear
 command-remove:
