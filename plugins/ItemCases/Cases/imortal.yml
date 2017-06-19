@@ -1,0 +1,165 @@
+Name: imortal
+RedeemDelay: 2880
+'1':
+  type: ANVIL
+  amount: 1
+'2':
+  type: ENDER_CHEST
+  amount: 1
+'3':
+  type: ENCHANTMENT_TABLE
+  amount: 2
+'4':
+  type: EMERALD_BLOCK
+  amount: 64
+'5':
+  type: GOLD_BLOCK
+  amount: 64
+'6':
+  type: GOLD_BLOCK
+  amount: 64
+'7':
+  type: DIAMOND_BLOCK
+  amount: 64
+'8':
+  type: IRON_BLOCK
+  amount: 64
+'9':
+  type: IRON_BLOCK
+  amount: 64
+'10':
+  type: LAPIS_BLOCK
+  amount: 64
+'11':
+  type: REDSTONE_BLOCK
+  amount: 64
+'12':
+  type: LAPIS_BLOCK
+  amount: 64
+'13':
+  type: LAPIS_BLOCK
+  amount: 64
+'14':
+  type: REDSTONE_BLOCK
+  amount: 64
+'15':
+  type: NETHER_STAR
+  amount: 3
+'16':
+  type: REDSTONE_BLOCK
+  amount: 64
+'17':
+  type: GOLDEN_APPLE
+  amount: 64
+  durability: 1
+'18':
+  type: EXP_BOTTLE
+  amount: 1
+'19':
+  type: EXP_BOTTLE
+  amount: 1
+'20':
+  type: EXP_BOTTLE
+  amount: 1
+'21':
+  type: EXP_BOTTLE
+  amount: 1
+'22':
+  type: EXP_BOTTLE
+  amount: 1
+'23':
+  type: EXP_BOTTLE
+  amount: 1
+'24':
+  type: EXP_BOTTLE
+  amount: 1
+'25':
+  type: EXP_BOTTLE
+  amount: 1
+'26':
+  type: EXP_BOTTLE
+  amount: 1
+'27':
+  type: EXP_BOTTLE
+  amount: 1
+'28':
+  type: EXP_BOTTLE
+  amount: 1
+'29':
+  type: EXP_BOTTLE
+  amount: 1
+'30':
+  type: EXP_BOTTLE
+  amount: 1
+'31':
+  type: EXP_BOTTLE
+  amount: 1
+'32':
+  type: EXP_BOTTLE
+  amount: 1
+'33':
+  type: EXP_BOTTLE
+  amount: 1
+'34':
+  type: EXP_BOTTLE
+  amount: 1
+'35':
+  type: EXP_BOTTLE
+  amount: 1
+'36':
+  type: EXP_BOTTLE
+  amount: 1
+'37':
+  type: EXP_BOTTLE
+  amount: 1
+'38':
+  type: EXP_BOTTLE
+  amount: 1
+'39':
+  type: EXP_BOTTLE
+  amount: 1
+'40':
+  type: EXP_BOTTLE
+  amount: 1
+'41':
+  type: EXP_BOTTLE
+  amount: 1
+'42':
+  type: EXP_BOTTLE
+  amount: 1
+'43':
+  type: EXP_BOTTLE
+  amount: 1
+'44':
+  type: EXP_BOTTLE
+  amount: 1
+'45':
+  type: EXP_BOTTLE
+  amount: 1
+'46':
+  type: EXP_BOTTLE
+  amount: 1
+'47':
+  type: EXP_BOTTLE
+  amount: 1
+'48':
+  type: EXP_BOTTLE
+  amount: 1
+'49':
+  type: EXP_BOTTLE
+  amount: 1
+'50':
+  type: EXP_BOTTLE
+  amount: 1
+'51':
+  type: EXP_BOTTLE
+  amount: 1
+'52':
+  type: EXP_BOTTLE
+  amount: 1
+'53':
+  type: EXP_BOTTLE
+  amount: 1
+'54':
+  type: EXP_BOTTLE
+  amount: 1

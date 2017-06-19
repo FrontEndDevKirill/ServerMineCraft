@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: zLane
+timestamps:
+  login: 1485138514403
+  logout: 1485138613643
+  kits:
+    firework: 1484580654549
+    premium: 1484580260106
+    start: 1484677737709
+    vip: 1485103324185
+  lastteleport: 1485136448134
+ipAddress: 109.87.98.36
+lastlocation:
+  world: world
+  x: -1703.0291592446297
+  y: 251.0
+  z: -155.1503770065321
+  yaw: 69.45087
+  pitch: 23.700188
+logoutlocation:
+  world: world
+  x: -829.0178848951178
+  y: 70.11549159952129
+  z: -271.07344294253016
+  yaw: 12.299652
+  pitch: 57.300068
+afk: false
+money: '1001545115.2'
+homes:
+  home:
+    world: world
+    x: -878.4097317386967
+    y: 74.0
+    z: -260.4917850517179
+    yaw: 269.9961
+    pitch: 11.699987

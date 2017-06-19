@@ -1,0 +1,68 @@
+#  ----------------------------------------------------
+#  AutoMessage Configuration File
+#  ----------------------------------------------------
+#  Message Configuration:
+#     Messages are handled in lists to allow for advanced customization!
+#     Feel free to add color codes by using & in your messages!
+#     To split a message onto multiple lines use the \n delimiter!
+#     Lines starting with / will be run as a command!
+#     To add single apostrophes into a message use ''.
+#     For a complete tutorial go to http://dev.bukkit.org/server-mods/automessage.
+#     If you are unfamiliar with YAML use the in-game commands: /am help
+
+settings:
+  enabled: true
+  min-players: 0
+  log-to-console: false
+message-lists:
+  regular:
+    enabled: true
+    interval: 30
+    expiry: -1
+    random: true
+    messages:
+    - '&e[&c✉&e] &3\n &7↱ &eБудь вкурсе обновлений сервера!\n &7↦ &eПодписывайся на
+      группу в контакте! \n &7↳ &eСсылка на группу » &cvk.com/gold_mine_gold\n&7'
+    - '&e[&c✉&e] &eПокупать донат только у » &cFhavyre'
+    - '&e[&c✉&e] &eПри покупке доната, на сервер он прийдет в течении &c5-ти&e минут!'
+    - '&e[&c✉&e] &eНаша группа в контакте » &cvk.com/gold_mine_gold'
+    - '&e[&c✉&e] &3\n &7↱ &eХочешь поддержать &cсервер? \n &7↦ &eПокупай донат на
+      сайте: &cgoldmine.serverdonate.ru/ \n &7↳ &eВзамен вы получите уйму &cкоманд!
+      \n&7'
+    - '&e[&c✉&e] &eМеню сервера » &c/menu'
+    - '&e[&c✉&e] &eКуча хороших возможностей » &c/donate\n&eТакже можно купить на
+      сайте : &cgoldmine.serverdonate.ru/'
+    - '&e[&c✉&e] &eСоздатели сервера: \n&6Fhavyre, &eего вк » &6vk.com/thedeadpriest
+      \n&6zLane, &eего вк » &6https://vk.com/basalygin97'
+    - '&e[&c✉&e] &eОгромное количество команд есть у донатеров! Выбери подходящий
+      » &c/donate'
+    - '&e[&c✉&e] &eАйпи сервера » &c178.33.254.135:25565'
+    - '&e[&c✉&e] &eРандомный телепорт » &c/rp'
+    - '&e[&c✉&e] &3\n &7↱ &eРассказывайте о нашем сервере &cдрузьям! \n &7↦ &eНаш
+      IP: &c178.33.254.135:25565 \n &7↳ &eЭтим вы поможете развиваться &cсерверу&e
+      быстрее! \n&7'
+    - '&e[&c✉&e] &eПаспорт на сервере, вводи » &c/pass'
+    - '&e[&c✉&e] &eВыделись среди друзей, купи донат! Они будут в восторге! Вводи
+      &c/donate'
+    - '&e[&c✉&e] &eДонат покупается на всегда и сохраняется после вайпа! Покупай скорее:
+      &chttp://goldmine.serverdonate.ru/'
+    - '&e[&c✉&e] &eА вы знали что у нас можно сидеть на ступеньках и строить батуты?
+      Попробуйте !'
+    - '&e[&c✉&e] &eЕндер дракон обновляется каждую неделю!(в субботу) \n&cУбей его
+      и получи до 1000000 себе на счет'
+    - '&e[&c✉&e] &eSkype Создателей : \n&4Fhavyre - hockey0898\n&6zLane - '
+    - '&e[&c✉&e] &eСервер нуждается в Модерах и Админах писать: &8[&aFhavyre&8]'
+    - '&e[&c✉&e] &eЕсли вы создали свой магазин ,то напишите адмнам, \nЧто бы поставили
+      там &8[&a/warp&8]'
+    - '&e[&c✉&e] &eСплиф арена &4[&6/warp spleef&4]&e (Проводят только админы прив
+      1000рублей на счет)'
+    - '&e[&c✉&e] &ePVP arena &4[&6/warp arena&4]&e'
+    - '&e[&c✉&e] &eИгровой магазин сервера &4[&6/shop&4]&e'
+    - '&e[&c✉&e] &eДа 29.01.2017 получи &5VIP &eбесплатно &4[&6/code 2017&4]&e'
+    - '&e[&c✉&e] &eПолучи Креатив бесплатно на 3 дня, дополни коды : \n&a&lBE82C4DI7B4C74EX
+      \n&a&l6BDAEB7248099D2X \n&e догадался тогда пиши &c/ed redeem <КОД с заменой
+      X>'
+    - '&e[&c✉&e] &eНе хочешь строить себе дом ? Есть решение ...\n &4[&6/warp city&4]&e
+      \n &eты можешь купить или арендовать себе дом у админов!'
+    - '&e[&c✉&e] &eГолосуй за переход на лаунчер у нас в группе VK:&2vk.com/gold_mine_gold'
+    - '&e[&c✉&e] &eВам слочно нужны деньги ? Тогда пиши :&4[&6/warp bank&4]&e'

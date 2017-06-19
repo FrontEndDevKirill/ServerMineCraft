@@ -1,0 +1,202 @@
+CREATIVE:
+  inv:
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+  - ==: org.bukkit.inventory.ItemStack
+    type: GRASS
+  - ==: org.bukkit.inventory.ItemStack
+    type: STONE
+    damage: 6
+  - ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+  - ==: org.bukkit.inventory.ItemStack
+    type: END_CRYSTAL
+  - ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: OBSIDIAN
+  - ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BLOCK
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOD
+    damage: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: DOUBLE_PLANT
+    damage: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: SAPLING
+    damage: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  - ==: org.bukkit.inventory.ItemStack
+    type: SANDSTONE
+  - ==: org.bukkit.inventory.ItemStack
+    type: LINGERING_POTION
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHAINMAIL_LEGGINGS
+  - ==: org.bukkit.inventory.ItemStack
+    type: ELYTRA
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: END_CRYSTAL
+  armor:
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHAINMAIL_LEGGINGS
+  - ==: org.bukkit.inventory.ItemStack
+    type: ELYTRA
+  - null
+SURVIVAL:
+  inv:
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 82
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 2
+        DURABILITY: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: IRON_SPADE
+    damage: 83
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §dСтартовый набор
+      enchants:
+        DIG_SPEED: 1
+        DURABILITY: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: IRON_AXE
+    damage: 69
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §dСтартовый набор
+      enchants:
+        DIG_SPEED: 1
+        DURABILITY: 1
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHORUS_FRUIT
+    amount: 18
+  - ==: org.bukkit.inventory.ItemStack
+    type: GRILLED_PORK
+    amount: 33
+  - ==: org.bukkit.inventory.ItemStack
+    type: TORCH
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    damage: 13
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        ARROW_INFINITE: 1
+      repair-cost: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    damage: 412
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        KNOCKBACK: 1
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Набор Донатера
+  - ==: org.bukkit.inventory.ItemStack
+    type: STICK
+    amount: 8
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: COBBLESTONE
+    amount: 31
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    damage: 186
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    damage: 186
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    damage: 186
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    damage: 186
+  - ==: org.bukkit.inventory.ItemStack
+    type: SHIELD
+    damage: 55
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYORgYIfyGZjTcvKZGVid83Pyi4BSTAzMDCxOicWpQDYHAwMAs8L3700AAAA=
+      blockMaterial: SHIELD
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    damage: 186
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    damage: 186
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    damage: 186
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    damage: 186

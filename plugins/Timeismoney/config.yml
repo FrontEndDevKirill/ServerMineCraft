@@ -1,0 +1,18 @@
+AMOUNT_PER_MIN: 1000
+MAX_TIME_PER_SESSION: 1800000
+MAX_AMOUNT_PER_DAY: 10000000
+AFK_TIME_SECONDS: -1
+CASH_MACHINE_CREATED: Машина денег готова
+CASH_MACHINE_DESTROYED: Машина денег разрушына
+GET_MONEY: <-Получи выручка->
+HAS_BEEN_ADDED_TO_YOUR_ACCOUNT: Твой аккаунт добавлен!
+MAX_AMOUNT_PER_DAY_REACHED: афыа
+THANK_YOU: Спасибо!
+NEW_SOLD: 'Всего: '
+HI: 'Êó, '
+TIME_SPENT: 'Время платить : '
+MINUTE: ' Минут'
+CONNECTION_TIME: 'Время подключения : '
+AFK_SECONDS_IGNORED: ' Ты бал в афк'
+CONFIGURATION_RELOADED: Настройки обновлены
+CURRENCY: рублей

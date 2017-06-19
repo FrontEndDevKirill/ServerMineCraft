@@ -1,0 +1,63 @@
+Name: uncammon
+RedeemDelay: 5
+'1':
+  type: IRON_BLOCK
+  amount: 4
+'2':
+  type: GOLD_BLOCK
+  amount: 2
+'3':
+  type: SKULL_ITEM
+  amount: 1
+  durability: 4
+'4':
+  type: ENCHANTMENT_TABLE
+  amount: 1
+'5':
+  type: GLASS
+  amount: 64
+'6':
+  type: ENDER_CHEST
+  amount: 1
+'7':
+  type: TORCH
+  amount: 64
+'8':
+  type: WOOL
+  amount: 32
+'9':
+  type: LOG
+  amount: 64
+'10':
+  type: BOOK
+  amount: 6
+'11':
+  type: BONE
+  amount: 16
+'12':
+  type: EXP_BOTTLE
+  amount: 1
+'13':
+  type: EXP_BOTTLE
+  amount: 1
+'14':
+  type: EXP_BOTTLE
+  amount: 1
+'15':
+  type: EXP_BOTTLE
+  amount: 1
+'16':
+  type: EXP_BOTTLE
+  amount: 1
+'17':
+  type: EXP_BOTTLE
+  amount: 1
+'18':
+  type: EXP_BOTTLE
+  amount: 1
+'19':
+  type: EXP_BOTTLE
+  amount: 1
+'20':
+  type: EXP_BOTTLE
+  amount: 1

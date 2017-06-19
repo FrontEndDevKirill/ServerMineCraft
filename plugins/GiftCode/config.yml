@@ -1,0 +1,27 @@
+# GiftCode v1.3 Configuration
+# by Mik1313
+
+Lang:
+  Error:
+    Arguments: §4Invalid arguments!
+    Permissions: §4You don't have permissions!
+  Info:
+    Addcode:
+      Use: '§7Use: /code add <code> <type> <commands/items id> <amount>'
+      Done: §2Your code was added!
+      Error: §4This code already exist!
+    Delcode:
+      Use: '§7Use: /code del <code>'
+      Done: §2Code was deleted!
+    Code:
+      Use: '§7Use: /code <code>'
+      Done: §2Your code was activated!
+      Error: §4Your code already activated or deleted!
+    Action:
+      Time:
+        Error: §4This action has expired!
+      User:
+        Error: §4You alerady used this code!
+Random:
+  Part-Size: 4
+  Part-Count: 3

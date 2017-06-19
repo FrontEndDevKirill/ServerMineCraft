@@ -1,0 +1,45 @@
+Name: hard
+RedeemDelay: -1
+'1':
+  type: BOW
+  amount: 1
+  meta: true
+  name: WIN HARD
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_FALL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - OXYGEN:3
+  - WATER_WORKER:1
+  - THORNS:3
+  - DEPTH_STRIDER:3
+  - DAMAGE_ALL:5
+  - DAMAGE_UNDEAD:5
+  - DAMAGE_ARTHROPODS:5
+  - KNOCKBACK:2
+  - FIRE_ASPECT:2
+  - LOOT_BONUS_MOBS:3
+  - DIG_SPEED:5
+  - SILK_TOUCH:1
+  - DURABILITY:3
+  - LOOT_BONUS_BLOCKS:3
+  - ARROW_DAMAGE:5
+  - ARROW_KNOCKBACK:2
+  - ARROW_FIRE:1
+  - ARROW_INFINITE:1
+  - LUCK:3
+  - LURE:3
+'2':
+  type: EXP_BOTTLE
+  amount: 1
+'3':
+  type: EXP_BOTTLE
+  amount: 1
+'4':
+  type: EXP_BOTTLE
+  amount: 1
+'5':
+  type: EXP_BOTTLE
+  amount: 1

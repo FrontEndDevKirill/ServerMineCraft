@@ -1,0 +1,15 @@
+{
+  "group": "Helper",
+  "location": {
+    "world": "world",
+    "x": -1033.059339987402,
+    "y": 62.5,
+    "z": -193.19448544466067,
+    "yaw": -0.7503662,
+    "pitch": 20.55002
+  },
+  "operator": true,
+  "can-fly": true,
+  "walk-speed": 0.2,
+  "fly-speed": 0.1
+}

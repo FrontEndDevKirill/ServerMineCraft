@@ -1,0 +1,57 @@
+Name: cammon
+RedeemDelay: 1
+'1':
+  type: WOOL
+  amount: 8
+'2':
+  type: GLASS
+  amount: 10
+'3':
+  type: DIAMOND
+  amount: 8
+'4':
+  type: STONE
+  amount: 64
+  durability: 1
+'5':
+  type: LOG
+  amount: 16
+'6':
+  type: STONE
+  amount: 32
+'7':
+  type: BOOKSHELF
+  amount: 2
+'8':
+  type: GLOWSTONE
+  amount: 5
+'9':
+  type: HAY_BLOCK
+  amount: 2
+'10':
+  type: EXP_BOTTLE
+  amount: 1
+'11':
+  type: EXP_BOTTLE
+  amount: 1
+'12':
+  type: EXP_BOTTLE
+  amount: 1
+'13':
+  type: EXP_BOTTLE
+  amount: 1
+'14':
+  type: EXP_BOTTLE
+  amount: 1
+'15':
+  type: EXP_BOTTLE
+  amount: 1
+'16':
+  type: EXP_BOTTLE
+  amount: 1
+'17':
+  type: EXP_BOTTLE
+  amount: 1
+'18':
+  type: EXP_BOTTLE
+  amount: 1

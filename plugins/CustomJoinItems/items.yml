@@ -1,0 +1,7 @@
+first-item:
+  name: '&e&lМеню сервера'
+  id: 339
+  slot: 9
+  lore:
+    - '&7По всем вопросам к Fhavyre'
+  command: 'menu'

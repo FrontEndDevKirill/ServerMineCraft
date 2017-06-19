@@ -1,0 +1,13 @@
+Name: easy
+RedeemDelay: -1
+'1':
+  type: BOW
+  amount: 1
+  meta: true
+  name: WIN EASY
+  enchants:
+  - ARROW_INFINITE:1
+  - KNOCKBACK:2
+'2':
+  type: EXP_BOTTLE
+  amount: 1

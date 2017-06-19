@@ -1,0 +1,25 @@
+Commands:
+  Reload:
+    Description: Перезагрузка плагина и его конфигурации
+  Clear:
+    Description: Очистка чата
+    Console: Сервер
+    Unknown: Анонимус
+Messages:
+  Chat:
+    AdDetected: '&сРеклама запрещена на этом сервере'
+    AdNotify: "&c%player tried to write an ad in chat. He wrote: \n&a %message"
+  Commands:
+    Reload:
+      Success: '&aКонфигурация перезагружена'
+    Clear:
+      Success: '&aЧат очищен игроком '
+  CommandResult:
+    NoPermission: '&сВам не позволено делать это &8(%perm%)'
+    WrongUsage: '&cНеправильная команда. Помощь: /%cmd% help'
+  Player:
+    Join: '%faction %prefix%displayname%suffix &ejoined the game!'
+    FirstJoin: '%faction %prefix%displayname%suffix &ejoined the game &6for the first
+      time!'
+    Kick: '%faction %prefix%displayname%suffix &ewas kicked from the game!'
+    Quit: '%faction %prefix%displayname%suffix &eleft the game!'

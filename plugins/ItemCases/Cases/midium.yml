@@ -1,0 +1,18 @@
+Name: midium
+RedeemDelay: -1
+'1':
+  type: BOW
+  amount: 1
+  meta: true
+  name: WIN MEDIUM
+  enchants:
+  - ARROW_DAMAGE:5
+  - ARROW_FIRE:1
+  - ARROW_INFINITE:1
+  - LOOT_BONUS_MOBS:3
+'2':
+  type: EXP_BOTTLE
+  amount: 1
+'3':
+  type: EXP_BOTTLE
+  amount: 1

@@ -1,0 +1,13 @@
+uniquePlayers: 28
+lastLogin: Fhavyre
+lastLoginDisplay: Fhavyre
+enableMOTD: true
+randomMOTD: true
+MOTD:
+- '&c&l▁▂▃▄▅▆▇◤ &b&lGoldMine &c&l◥▇▆▅▄▃▂▁%n%&6&lWELLCOME: &eFriend &0| &6&lVK: &evk.com/group'
+enableLoginMOTD: false
+randomLoginMOTD: false
+delayLoginMOTD: 0
+loginMOTD:
+- '&bWelcome &9%player_name%&b, %n%&bThere are currently &9%players%&b/&9%maxplayers%
+  &bplayers online!'

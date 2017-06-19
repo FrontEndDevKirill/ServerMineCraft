@@ -1,0 +1,71 @@
+Name: rare
+RedeemDelay: 60
+'1':
+  type: DIAMOND_BLOCK
+  amount: 5
+'2':
+  type: OBSIDIAN
+  amount: 16
+'3':
+  type: BOOKSHELF
+  amount: 16
+'4':
+  type: GLOWSTONE
+  amount: 32
+'5':
+  type: EMERALD_BLOCK
+  amount: 2
+'6':
+  type: BOW
+  amount: 1
+  meta: true
+  name: Лук Админа
+  enchants:
+  - ARROW_DAMAGE:5
+  - DURABILITY:3
+  - ARROW_FIRE:1
+  - ARROW_INFINITE:1
+'7':
+  type: BEACON
+  amount: 1
+'8':
+  type: WOOL
+  amount: 64
+'9':
+  type: LOG
+  amount: 64
+  durability: 2
+'10':
+  type: MONSTER_EGG
+  amount: 1
+'11':
+  type: BREWING_STAND_ITEM
+  amount: 1
+'12':
+  type: LEATHER
+  amount: 32
+'13':
+  type: DIAMOND_SWORD
+  amount: 1
+  meta: true
+  name: Мечь Админа
+  enchants:
+  - DAMAGE_ALL:5
+  - DURABILITY:3
+  - FIRE_ASPECT:2
+  - LOOT_BONUS_MOBS:3
+'14':
+  type: ANVIL
+  amount: 1
+'15':
+  type: EXP_BOTTLE
+  amount: 1
+'16':
+  type: EXP_BOTTLE
+  amount: 1
+'17':
+  type: EXP_BOTTLE
+  amount: 1
+'18':
+  type: EXP_BOTTLE
+  amount: 1

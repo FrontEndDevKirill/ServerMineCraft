@@ -1,0 +1,200 @@
+CREATIVE:
+  inv:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  armor:
+  - null
+  - null
+  - null
+  - null
+SURVIVAL:
+  inv:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_BOOTS
+    damage: 13
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §dСтартовый набор
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+      color:
+        ==: Color
+        RED: 0
+        BLUE: 0
+        GREEN: 255
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_LEGGINGS
+    damage: 13
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §dСтартовый набор
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+      color:
+        ==: Color
+        RED: 255
+        BLUE: 255
+        GREEN: 255
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_CHESTPLATE
+    damage: 13
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §dСтартовый набор
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+      color:
+        ==: Color
+        RED: 255
+        BLUE: 255
+        GREEN: 255
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_HELMET
+    damage: 13
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §dСтартовый набор
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+      color:
+        ==: Color
+        RED: 0
+        BLUE: 0
+        GREEN: 255
+  - null
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_BOOTS
+    damage: 13
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §dСтартовый набор
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+      color:
+        ==: Color
+        RED: 0
+        BLUE: 0
+        GREEN: 255
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_LEGGINGS
+    damage: 13
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §dСтартовый набор
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+      color:
+        ==: Color
+        RED: 255
+        BLUE: 255
+        GREEN: 255
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_CHESTPLATE
+    damage: 13
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §dСтартовый набор
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+      color:
+        ==: Color
+        RED: 255
+        BLUE: 255
+        GREEN: 255
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_HELMET
+    damage: 13
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §dСтартовый набор
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+      color:
+        ==: Color
+        RED: 0
+        BLUE: 0
+        GREEN: 255

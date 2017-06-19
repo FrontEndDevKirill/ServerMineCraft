@@ -1,0 +1,487 @@
+Name: GODCASE
+RedeemDelay: 43200
+'1':
+  type: LAPIS_BLOCK
+  amount: 64
+'2':
+  type: GOLDEN_APPLE
+  amount: 64
+  durability: 1
+'3':
+  type: GLOWSTONE
+  amount: 64
+'4':
+  type: EMERALD_BLOCK
+  amount: 64
+'5':
+  type: EMERALD_BLOCK
+  amount: 64
+'6':
+  type: REDSTONE_BLOCK
+  amount: 64
+'7':
+  type: BEACON
+  amount: 64
+'8':
+  type: HAY_BLOCK
+  amount: 64
+'9':
+  type: ENDER_CHEST
+  amount: 64
+'10':
+  type: GOLDEN_APPLE
+  amount: 64
+  durability: 1
+'11':
+  type: ENCHANTMENT_TABLE
+  amount: 64
+'12':
+  type: LAPIS_BLOCK
+  amount: 64
+'13':
+  type: BOOKSHELF
+  amount: 64
+'14':
+  type: EMERALD_BLOCK
+  amount: 64
+'15':
+  type: QUARTZ_BLOCK
+  amount: 64
+'16':
+  type: QUARTZ_BLOCK
+  amount: 64
+  durability: 2
+'17':
+  type: ANVIL
+  amount: 64
+'18':
+  type: REDSTONE_BLOCK
+  amount: 64
+'19':
+  type: OBSIDIAN
+  amount: 64
+'20':
+  type: CHEST
+  amount: 1
+  meta: true
+  name: §fGODCASE кейс
+  lore:
+  - ''
+  - '§9§lЭтот кейс содержит вещи:'
+'21':
+  type: CHEST
+  amount: 1
+  meta: true
+  name: §fGODCASE кейс
+  lore:
+  - ''
+  - '§9§lЭтот кейс содержит вещи:'
+'22':
+  type: CHEST
+  amount: 1
+  meta: true
+  name: §fGODCASE кейс
+  lore:
+  - ''
+  - '§9§lЭтот кейс содержит вещи:'
+'23':
+  type: CHEST
+  amount: 1
+  meta: true
+  name: §fGODCASE кейс
+  lore:
+  - ''
+  - '§9§lЭтот кейс содержит вещи:'
+'24':
+  type: EXP_BOTTLE
+  amount: 1
+'25':
+  type: EXP_BOTTLE
+  amount: 1
+'26':
+  type: EXP_BOTTLE
+  amount: 1
+'27':
+  type: EXP_BOTTLE
+  amount: 1
+'28':
+  type: EXP_BOTTLE
+  amount: 1
+'29':
+  type: EXP_BOTTLE
+  amount: 1
+'30':
+  type: EXP_BOTTLE
+  amount: 1
+'31':
+  type: EXP_BOTTLE
+  amount: 1
+'32':
+  type: EXP_BOTTLE
+  amount: 1
+'33':
+  type: EXP_BOTTLE
+  amount: 1
+'34':
+  type: EXP_BOTTLE
+  amount: 1
+'35':
+  type: EXP_BOTTLE
+  amount: 1
+'36':
+  type: CHEST
+  amount: 24
+  meta: true
+  name: §fcammon кейс
+  lore:
+  - ''
+  - '§9§lЭтот кейс содержит вещи:'
+  - §a8§7x §eWool
+  - §a10§7x §eGlass
+  - §a8§7x §eDiamond
+  - §a64§7x §eStone
+  - §a16§7x §eLog
+  - §a32§7x §eStone
+  - §a2§7x §eBookshelf
+  - §a5§7x §eGlowstone
+  - §a2§7x §eHay Block
+  - §a1§7x §eExp Bottle
+  - §a1§7x §eExp Bottle
+  - §bи §a6 §bдругие итемы
+'37':
+  type: CHEST
+  amount: 19
+  meta: true
+  name: §funcammon кейс
+  lore:
+  - ''
+  - '§9§lЭтот кейс содержит вещи:'
+  - §a4§7x §eIron Block
+  - §a2§7x §eGold Block
+  - §a1§7x §eSkull
+  - §a1§7x §eEnchantment Table
+  - §a64§7x §eGlass
+  - §a1§7x §eEnder Chest
+  - §a64§7x §eTorch
+  - §a32§7x §eWool
+  - §a64§7x §eLog
+  - §a6§7x §eBook
+  - §a16§7x §eBone
+  - §bи §a8 §bдругие итемы
+'38':
+  type: CHEST
+  amount: 9
+  meta: true
+  name: §frare кейс
+  lore:
+  - ''
+  - '§9§lЭтот кейс содержит вещи:'
+  - §a5§7x §eDiamond Block
+  - §a16§7x §eObsidian
+  - §a16§7x §eBookshelf
+  - §a32§7x §eGlowstone
+  - §a2§7x §eEmerald Block
+  - §a1§7x §eEnchanted Bow
+  - §a1§7x §eBeacon
+  - §a64§7x §eWool
+  - §a64§7x §eLog
+  - §a1§7x §eMonster Egg
+  - §a1§7x §eBrewing Stand Item
+  - §bи §a6 §bдругие итемы
+'39':
+  type: CHEST
+  amount: 4
+  meta: true
+  name: §fmithical кейс
+  lore:
+  - ''
+  - '§9§lЭтот кейс содержит вещи:'
+  - §a64§7x §eMonster Eggs
+  - §a8§7x §eEmerald Block
+  - §a8§7x §eDiamond Block
+  - §a32§7x §eGold Block
+  - §a32§7x §eIron Block
+  - §a64§7x §eRedstone Block
+  - §a64§7x §eQuartz Ore
+  - §a64§7x §eLapis Block
+  - §a64§7x §eMonster Eggs
+  - §a64§7x §eMonster Eggs
+  - §a64§7x §eMonster Eggs
+  - §bи §a24 §bдругие итемы
+'40':
+  type: CHEST
+  amount: 1
+  meta: true
+  name: §fimortal кейс
+  lore:
+  - ''
+  - '§9§lЭтот кейс содержит вещи:'
+  - §a1§7x §eAnvil
+  - §a1§7x §eEnder Chest
+  - §a2§7x §eEnchantment Table
+  - §a64§7x §eEmerald Block
+  - §a64§7x §eGold Block
+  - §a64§7x §eGold Block
+  - §a64§7x §eDiamond Block
+  - §a64§7x §eIron Block
+  - §a64§7x §eIron Block
+  - §a64§7x §eLapis Block
+  - §a64§7x §eRedstone Block
+  - §bи §a42 §bдругие итемы
+'41':
+  type: DIAMOND_LEGGINGS
+  amount: 1
+  meta: true
+  name: Королевские штаны Fhavyre
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_FALL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - OXYGEN:3
+  - WATER_WORKER:1
+  - THORNS:3
+  - DEPTH_STRIDER:3
+  - DAMAGE_ALL:5
+  - DAMAGE_UNDEAD:5
+  - DAMAGE_ARTHROPODS:5
+  - KNOCKBACK:2
+  - FIRE_ASPECT:2
+  - LOOT_BONUS_MOBS:3
+  - DIG_SPEED:5
+  - SILK_TOUCH:1
+  - DURABILITY:3
+  - LOOT_BONUS_BLOCKS:3
+  - ARROW_DAMAGE:5
+  - ARROW_KNOCKBACK:2
+  - ARROW_FIRE:1
+  - ARROW_INFINITE:1
+  - LUCK:3
+  - LURE:3
+'42':
+  type: DIAMOND_CHESTPLATE
+  amount: 1
+  meta: true
+  name: Королевский нагрудник Fhavyre
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_FALL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - OXYGEN:3
+  - WATER_WORKER:1
+  - THORNS:3
+  - DEPTH_STRIDER:3
+  - DAMAGE_ALL:5
+  - DAMAGE_UNDEAD:5
+  - DAMAGE_ARTHROPODS:5
+  - KNOCKBACK:2
+  - FIRE_ASPECT:2
+  - LOOT_BONUS_MOBS:3
+  - DIG_SPEED:5
+  - SILK_TOUCH:1
+  - DURABILITY:3
+  - LOOT_BONUS_BLOCKS:3
+  - ARROW_DAMAGE:5
+  - ARROW_KNOCKBACK:2
+  - ARROW_FIRE:1
+  - ARROW_INFINITE:1
+  - LUCK:3
+  - LURE:3
+'43':
+  type: DIAMOND_HELMET
+  amount: 1
+  meta: true
+  name: Королевский шлем Fhavyre
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_FALL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - OXYGEN:3
+  - WATER_WORKER:1
+  - THORNS:3
+  - DEPTH_STRIDER:3
+  - DAMAGE_ALL:5
+  - DAMAGE_UNDEAD:5
+  - DAMAGE_ARTHROPODS:5
+  - KNOCKBACK:2
+  - FIRE_ASPECT:2
+  - LOOT_BONUS_MOBS:3
+  - DIG_SPEED:5
+  - SILK_TOUCH:1
+  - DURABILITY:3
+  - LOOT_BONUS_BLOCKS:3
+  - ARROW_DAMAGE:5
+  - ARROW_KNOCKBACK:2
+  - ARROW_FIRE:1
+  - ARROW_INFINITE:1
+  - LUCK:3
+  - LURE:3
+'44':
+  type: DIAMOND_SWORD
+  amount: 1
+  meta: true
+  name: МЕЧЬ КОРОЛЯ Fhavyre
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_FALL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - OXYGEN:3
+  - WATER_WORKER:1
+  - THORNS:3
+  - DEPTH_STRIDER:3
+  - DAMAGE_ALL:5
+  - DAMAGE_UNDEAD:5
+  - DAMAGE_ARTHROPODS:5
+  - KNOCKBACK:2
+  - FIRE_ASPECT:2
+  - LOOT_BONUS_MOBS:3
+  - DIG_SPEED:5
+  - SILK_TOUCH:1
+  - DURABILITY:3
+  - LOOT_BONUS_BLOCKS:3
+  - ARROW_DAMAGE:5
+  - ARROW_KNOCKBACK:2
+  - ARROW_FIRE:1
+  - ARROW_INFINITE:1
+  - LUCK:3
+  - LURE:3
+'45':
+  type: DIAMOND_BOOTS
+  amount: 1
+  meta: true
+  name: Королевские сапоги Fhavyre
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_FALL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - OXYGEN:3
+  - WATER_WORKER:1
+  - THORNS:3
+  - DEPTH_STRIDER:3
+  - DAMAGE_ALL:5
+  - DAMAGE_UNDEAD:5
+  - DAMAGE_ARTHROPODS:5
+  - KNOCKBACK:2
+  - FIRE_ASPECT:2
+  - LOOT_BONUS_MOBS:3
+  - DIG_SPEED:5
+  - SILK_TOUCH:1
+  - DURABILITY:3
+  - LOOT_BONUS_BLOCKS:3
+  - ARROW_DAMAGE:5
+  - ARROW_KNOCKBACK:2
+  - ARROW_FIRE:1
+  - ARROW_INFINITE:1
+  - LUCK:3
+  - LURE:3
+'46':
+  type: DIAMOND_AXE
+  amount: 1
+  meta: true
+  name: Королевский топор Fhavyre
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_FALL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - OXYGEN:3
+  - WATER_WORKER:1
+  - THORNS:3
+  - DEPTH_STRIDER:3
+  - DAMAGE_ALL:5
+  - DAMAGE_UNDEAD:5
+  - DAMAGE_ARTHROPODS:5
+  - KNOCKBACK:2
+  - FIRE_ASPECT:2
+  - LOOT_BONUS_MOBS:3
+  - DIG_SPEED:5
+  - SILK_TOUCH:1
+  - DURABILITY:3
+  - LOOT_BONUS_BLOCKS:3
+  - ARROW_DAMAGE:5
+  - ARROW_KNOCKBACK:2
+  - ARROW_FIRE:1
+  - ARROW_INFINITE:1
+  - LUCK:3
+  - LURE:3
+'47':
+  type: DIAMOND_PICKAXE
+  amount: 1
+  meta: true
+  name: Королевская кирка Fhavyre
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_FALL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - OXYGEN:3
+  - WATER_WORKER:1
+  - THORNS:3
+  - DEPTH_STRIDER:3
+  - DAMAGE_ALL:5
+  - DAMAGE_UNDEAD:5
+  - DAMAGE_ARTHROPODS:5
+  - KNOCKBACK:2
+  - FIRE_ASPECT:2
+  - LOOT_BONUS_MOBS:3
+  - DIG_SPEED:5
+  - SILK_TOUCH:1
+  - DURABILITY:3
+  - LOOT_BONUS_BLOCKS:3
+  - ARROW_DAMAGE:5
+  - ARROW_KNOCKBACK:2
+  - ARROW_FIRE:1
+  - ARROW_INFINITE:1
+  - LUCK:3
+  - LURE:3
+'48':
+  type: DIAMOND_SPADE
+  amount: 1
+  meta: true
+  name: Королевская лопата Fhavyre
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FIRE:4
+  - PROTECTION_FALL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - OXYGEN:3
+  - WATER_WORKER:1
+  - THORNS:3
+  - DEPTH_STRIDER:3
+  - DAMAGE_ALL:5
+  - DAMAGE_UNDEAD:5
+  - DAMAGE_ARTHROPODS:5
+  - KNOCKBACK:2
+  - FIRE_ASPECT:2
+  - LOOT_BONUS_MOBS:3
+  - DIG_SPEED:5
+  - SILK_TOUCH:1
+  - DURABILITY:3
+  - LOOT_BONUS_BLOCKS:3
+  - ARROW_DAMAGE:5
+  - ARROW_KNOCKBACK:2
+  - ARROW_FIRE:1
+  - ARROW_INFINITE:1
+  - LUCK:3
+  - LURE:3
+'49':
+  type: DIAMOND_BLOCK
+  amount: 64
+'50':
+  type: DIAMOND_BLOCK
+  amount: 64
+'51':
+  type: DIAMOND_BLOCK
+  amount: 64

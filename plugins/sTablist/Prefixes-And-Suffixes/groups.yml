@@ -1,0 +1,54 @@
+glav:
+  Prefix: '&4&lGL.ADMIN &a'
+  Suffix: ' '
+builder:
+  Prefix: '&5&lBUILDER&a'
+  Suffix: ' '
+helper:
+  Prefix: '&4&lHELPER &a'
+  Suffix: ' '
+gladmin:
+  Prefix: '&c&lST.ADMIN &a'
+  Suffix: ' '
+admin:
+  Prefix: '&c&lADMIN &a'
+  Suffix: ' '
+bog:
+  Prefix: '&b&lGOD &a'
+  Suffix: ' '
+moder:
+  Prefix: '&2&lMODER &a'
+  Suffix: ' '
+creat+:
+  Prefix: '&d&lCREATIVE+ &a'
+  Suffix: ' '
+creat:
+  Prefix: '&d&lCREATIVE &a'
+  Suffix: ' '
+prem:
+  Prefix: '&6&lPREMIUM &a'
+  Suffix: ' '
+vip:
+  Prefix: '&e&lVIP &a'
+  Suffix: ' '
+fly:
+  Prefix: '&3&lFLY &a'
+  Suffix: ' '  
+default:
+  Prefix: '&2Игрок: &f'
+  Suffix: ' '
+#Highest Group = Highest group in Tablist
+#Lowest Group = Lowsest group in Tablist
+GroupSort:
+- 'glav'
+- 'helper'
+- 'gladmin'
+- 'admin'
+- 'bog'
+- 'moder'
+- 'creat+'
+- 'creat'
+- 'prem'
+- 'vip'
+- 'fly'
+- 'user'

@@ -1,0 +1,114 @@
+Name: mithical
+RedeemDelay: 1440
+'1':
+  type: MONSTER_EGGS
+  amount: 64
+  durability: 5
+'2':
+  type: EMERALD_BLOCK
+  amount: 8
+'3':
+  type: DIAMOND_BLOCK
+  amount: 8
+'4':
+  type: GOLD_BLOCK
+  amount: 32
+'5':
+  type: IRON_BLOCK
+  amount: 32
+'6':
+  type: REDSTONE_BLOCK
+  amount: 64
+'7':
+  type: QUARTZ_ORE
+  amount: 64
+'8':
+  type: LAPIS_BLOCK
+  amount: 64
+'9':
+  type: MONSTER_EGGS
+  amount: 64
+  durability: 5
+'10':
+  type: MONSTER_EGGS
+  amount: 64
+  durability: 5
+'11':
+  type: MONSTER_EGGS
+  amount: 64
+  durability: 5
+'12':
+  type: BOOKSHELF
+  amount: 64
+'13':
+  type: EXP_BOTTLE
+  amount: 1
+'14':
+  type: EXP_BOTTLE
+  amount: 1
+'15':
+  type: EXP_BOTTLE
+  amount: 1
+'16':
+  type: EXP_BOTTLE
+  amount: 1
+'17':
+  type: EXP_BOTTLE
+  amount: 1
+'18':
+  type: EXP_BOTTLE
+  amount: 1
+'19':
+  type: EXP_BOTTLE
+  amount: 1
+'20':
+  type: EXP_BOTTLE
+  amount: 1
+'21':
+  type: EXP_BOTTLE
+  amount: 1
+'22':
+  type: EXP_BOTTLE
+  amount: 1
+'23':
+  type: EXP_BOTTLE
+  amount: 1
+'24':
+  type: EXP_BOTTLE
+  amount: 1
+'25':
+  type: EXP_BOTTLE
+  amount: 1
+'26':
+  type: EXP_BOTTLE
+  amount: 1
+'27':
+  type: EXP_BOTTLE
+  amount: 1
+'28':
+  type: EXP_BOTTLE
+  amount: 1
+'29':
+  type: EXP_BOTTLE
+  amount: 1
+'30':
+  type: EXP_BOTTLE
+  amount: 1
+'31':
+  type: EXP_BOTTLE
+  amount: 1
+'32':
+  type: EXP_BOTTLE
+  amount: 1
+'33':
+  type: EXP_BOTTLE
+  amount: 1
+'34':
+  type: EXP_BOTTLE
+  amount: 1
+'35':
+  type: EXP_BOTTLE
+  amount: 1
+'36':
+  type: EXP_BOTTLE
+  amount: 1

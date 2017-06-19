@@ -1,0 +1,45 @@
+# The plugin is in testing and may be unstable and / or buggy, Please report any bugs or errors to the Bukkit dev page so we can squat them
+# as soon as possible :)
+
+BuyRegionMax: 0
+CheckExpirationsInMins: 5
+RequireBuyMode: true
+RentRegionMax: 0
+RequireBuyPerms: false
+RequireRentPerms: false
+DateFormat: Default
+Messages:
+  InvalidPriceTime: Неверный знак! Неверная цена или промежуток времени
+  RegionNoExist: Неверный знак. Регион не существует!
+  EvictedFrom: Вы были выселены из
+  InvalidArg: Неверный аргумент. Принимаемые значения -> true, false, yes, no, off, on.
+  RenewTurnOff: Автоматическая оплата аренды было выключено.
+  RenewTurnOn: Автоматическая оплата аренды было включено.
+  RenewOff: Автоматическая оплата аренды выключена!
+  RenewOn: Автоматическая оплата аренды включена!
+  InvalidRenewArgs: Неверный аргумент -> /buyregion renew <регион>
+  BuyModeExit: Вы вышли из режима покупки.
+  BuyModeEnter: Вы вошли в режим покупок.
+  ToEnterBuyMode: Для входа в режим покупки введите-> /buyregion
+  BuyModeRent: Вы должны находиться в режиме покупки для аренды этого региона!
+  BuyModeBuy: Вы должны находиться в режиме покупки для приобретения этого региона!
+  NotEnoughRent: Недостаточно денег для аренды этого региона!
+  NotEnoughBuy: Недостаточно денег для покупки этого региона!
+  TransFailed: Ошибка при переводе!
+  Rented: Поздравляем! Регион арендован!
+  NewBalance: Ваш новый баланс
+  RentMax: Вы не можете больше арендовать регионы. Максимальное количество регионов для аренды достигнуто
+  RentPerms: У вас нет разрешения для аренды региона.
+  Balance: Ваш баланс
+  Purchased: Поздравляем! Регион приобретён!
+  BuyMax: Вы не можете больше приобретать регионы. Максимальное количество регионов для покупки достигнуто
+  BuyPerms: У вас нет разрешения для приобретения региона.
+  NotRented: В настоящее время не арендован.
+  NotRenting: Вы не арендовали этот регион.
+  NotEnoughRenew: Недостаточно средств для оплаты аренды этого регион!
+  Renewed: Поздравляем! Вы обновили регион!
+  Expired: Срок аренды региона истёк
+  Help1: BuyRegion команды
+  Help2: /buyregion - перелючает режим покупки
+  Help3: /buyregion renew <region> - обновляет аренду <региона>
+  Help4: /buyregion autorenew <true/false> - устанавливает автоматическую оплату аренды на всех регионах

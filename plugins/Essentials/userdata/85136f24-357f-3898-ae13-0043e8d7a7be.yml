@@ -1,0 +1,39 @@
+socialspy: false
+lastAccountName: Fhavyre
+timestamps:
+  login: 1497868919990
+  logout: 1497869045018
+  kits:
+    firework: 1484504021527
+    donor: 1484517321617
+    bonus: 1484508628449
+    start: 1484751219935
+    vip: 1485006533667
+    food: 1484751244709
+  lastteleport: 1497868974449
+ipAddress: 25.39.230.76
+lastlocation:
+  world: world
+  x: -1703.8418808555791
+  y: 251.0
+  z: -152.89736058858722
+  yaw: 193.64975
+  pitch: -0.44999543
+logoutlocation:
+  world: world
+  x: -1004.407798517607
+  y: 52.0
+  z: -215.69999998807907
+  yaw: 227.85431
+  pitch: -28.050064
+godmode: false
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2625.1341370907267
+    y: 64.0
+    z: 841.622968956072
+    yaw: 96.60043
+    pitch: 4.2000184
