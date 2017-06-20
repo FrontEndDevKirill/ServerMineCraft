@@ -41,99 +41,99 @@ GlobalMultiplier: 1
 PIG:
    Enabled: true
    Negative: false
-   MinMoney: 5
-   MaxMoney: 10
+   MinMoney: 0.01
+   MaxMoney: 0.1
    Chance: 100
    
 SHEEP:
    Enabled: true
    Negative: false
-   MinMoney: 5
-   MaxMoney: 10
+   MinMoney: 0.01
+   MaxMoney: 0.1
    Chance: 100
    
 CHICKEN:
    Enabled: true
    Negative: false
-   MinMoney: 3
-   MaxMoney: 5
+   MinMoney: 0.01
+   MaxMoney: 0.05
    Chance: 100
    
 COW:
    Enabled: true
    Negative: false
-   MinMoney: 10
-   MaxMoney: 15
+   MinMoney: 0.01
+   MaxMoney: 0.1
    Chance: 100
 
 HORSE:
    Enabled: true
    Negative: false
-   MinMoney: 10
-   MaxMoney: 15
+   MinMoney: -10
+   MaxMoney: -150
    Chance: 100
 
 RABBIT:
    Enabled: true
    Negative: false
-   MinMoney: 1
-   MaxMoney: 2
+   MinMoney: -2
+   MaxMoney: -5
    Chance: 100
    
 WOLF:
    Enabled: true
    Negative: false
-   MinMoney: 1
-   MaxMoney: 2
+   MinMoney: -20
+   MaxMoney: -70
    Chance: 100
    
 OCELOT:
    Enabled: true
    Negative: false
-   MinMoney: 1
-   MaxMoney: 2
+   MinMoney: -10
+   MaxMoney: -50
    Chance: 100
    
 BAT:
    Enabled: true
    Negative: false
-   MinMoney: 5
-   MaxMoney: 10
+   MinMoney: 0.01
+   MaxMoney: 0.05
    Chance: 100
    
 BLAZE:
    Enabled: true
    Negative: false
-   MinMoney: 25
-   MaxMoney: 50
+   MinMoney: 0.5
+   MaxMoney: 2
    Chance: 100
    
 CAVE_SPIDER:
    Enabled: true
    Negative: false
-   MinMoney: 25
-   MaxMoney: 70
+   MinMoney: 0.5
+   MaxMoney: 3
    Chance: 100
    
 CREEPER:
    Enabled: true
    Negative: false
-   MinMoney: 25
-   MaxMoney: 25
+   MinMoney: 0.2
+   MaxMoney: 1
    Chance: 100
    
 ENDER_DRAGON:
    Enabled: true
    Negative: false
-   MinMoney: 10000
-   MaxMoney: 1000000
+   MinMoney: 1000
+   MaxMoney: 15000
    Chance: 100
    
 ENDERMAN:
    Enabled: true
    Negative: false
-   MinMoney: 35
-   MaxMoney: 35
+   MinMoney: 5
+   MaxMoney: 15
    Chance: 100
 
 ENDERMITE:
@@ -146,22 +146,22 @@ ENDERMITE:
 GHAST:
    Enabled: true
    Negative: false
-   MinMoney: 150
-   MaxMoney: 400
+   MinMoney: 1
+   MaxMoney: 4
    Chance: 100
    
 GIANT:
    Enabled: true
    Negative: false
-   MinMoney: 1500
-   MaxMoney: 10000
+   MinMoney: 10
+   MaxMoney: 100
    Chance: 100
 
 GUARDIAN:
    Enabled: true
    Negative: false
-   MinMoney: 35
-   MaxMoney: 35
+   MinMoney: 0.4
+   MaxMoney: 1.5
    Chance: 100
 
 IRON_GOLEM:
@@ -174,29 +174,29 @@ IRON_GOLEM:
 MAGMA_CUBE:
    Enabled: true
    Negative: false
-   MinMoney: 25
-   MaxMoney: 25
+   MinMoney: 3
+   MaxMoney: 10
    Chance: 100
    
 MUSHROOM_COW:
    Enabled: true
    Negative: false
-   MinMoney: 5
-   MaxMoney: 5
+   MinMoney: 0.01
+   MaxMoney: 0.1
    Chance: 100
    
 PIG_ZOMBIE:
    Enabled: true
    Negative: false
-   MinMoney: 35
-   MaxMoney: 35
+   MinMoney: 1
+   MaxMoney: 5
    Chance: 100
    
 PLAYER:
    Enabled: true
    Negative: false
-   MinMoney: 900
-   MaxMoney: 900
+   MinMoney: 10
+   MaxMoney: 100
    CashTransferPercent: 10
    CashTransferLimit: 0
    Chance: 100
@@ -204,69 +204,69 @@ PLAYER:
 SILVERFISH:
    Enabled: true
    Negative: false
-   MinMoney: 15
-   MaxMoney: 15
+   MinMoney: 0.1
+   MaxMoney: 1
    Chance: 100
    
 SKELETON:
    Enabled: true
    Negative: false
-   MinMoney: 25
-   MaxMoney: 25
+   MinMoney: 0.5
+   MaxMoney: 2
    Chance: 100
    
 SLIME:
    Enabled: true
    Negative: false
-   MinMoney: 25
-   MaxMoney: 25
+   MinMoney: 0.4
+   MaxMoney: 2
    Chance: 100
 
 SNOWMAN:
    Enabled: true
    Negative: true
-   MinMoney: 10
-   MaxMoney: 10
+   MinMoney: 0.5
+   MaxMoney: 1
    Chance: 100
    
 SPIDER:
    Enabled: true
    Negative: false
-   MinMoney: 25
-   MaxMoney: 25
+   MinMoney: 0.1
+   MaxMoney: 0.5
    Chance: 100
    
 SQUID:
    Enabled: true
    Negative: false
-   MinMoney: 5
-   MaxMoney: 5
+   MinMoney: 0.01
+   MaxMoney: 0.05
    Chance: 100
    
 VILLAGER:
    Enabled: true
    Negative: true
-   MinMoney: -3000
+   MinMoney: -300
    MaxMoney: -5000
    Chance: 100
    
 WITCH:
    Enabled: true
    Negative: false
-   MinMoney: 35
-   MaxMoney: 35
+   MinMoney: 3
+   MaxMoney: 5
    Chance: 100
    
 WITHER:
    Enabled: true
    Negative: false
-   MinMoney: 10000
-   MaxMoney: 100000
+   MinMoney: 10
+   MaxMoney: 100
    Chance: 100
    
 ZOMBIE:
    Enabled: true
    Negative: false
-   MinMoney: 1
-   MaxMoney: 300
+   MinMoney: 0.1
+   MaxMoney: 0.5
    Chance: 100

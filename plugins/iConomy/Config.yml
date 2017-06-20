@@ -31,10 +31,10 @@ System:
       # Major is the first segment [Major].Minor
 
       # Major ([Major].Minor) 1.00 Dollar (With Seperate 1 Dollar)
-      Major: [ 'Рубль', 'Рублей' ]
+      Major: [ '$', '$' ]
 
       # Minor (Major.[Minor]) 0.23 Coins  (With Seperate 0 Dollars, 23 Coins)
-      Minor: [ 'Копейка', 'Копеек' ]
+      Minor: [ '$', '$' ]
 
     Account:
       # Default account balance when created
@@ -118,7 +118,7 @@ System:
     # postgre, postgreSQL, postgreDB
     #  - These will attempt to connect to PostgreSQL
     Type: 'minidb'
-    
+
     # These are for InventoryDB only.
     #
     # InventoryDB is essentially Physical Money.

@@ -8,3 +8,4 @@ Fri Jan 20 23:07:33 MSK 2017 [zLane]  BUY house4
 Fri Jan 20 23:13:20 MSK 2017 [Fhavyre]  BUY vasa
 Sun Jan 22 13:21:15 MSK 2017 [Fhavyre]  BUY house_3
 Sun Jan 22 15:48:44 MSK 2017 [zLane]  BUY house_5
+Mon Jun 19 20:22:06 EEST 2017 [Fhavyre]  BUY mainhouse

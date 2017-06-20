@@ -7,10 +7,10 @@ menu-settings:
 
 block_1:
   COMMAND: 'console: give {player} 54 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_table.yml'
-  PRICE: 15
+  PRICE: 100
   NAME: '&7Сундук: 1 шт.'
   LORE:
-    - '&7Цена: &615 &7$'
+    - '&7Цена: &6100 &7$'
   ID: '54, 1'
   POSITION-X: 1
   POSITION-Y: 1
@@ -18,10 +18,10 @@ block_1:
 
 block_2:
   COMMAND: 'console: give {player} 58 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_table.yml'
-  PRICE: 15
+  PRICE: 25
   NAME: '&7Верстак: 1 шт.'
   LORE:
-    - '&7Цена: &615 &7$'
+    - '&7Цена: &625 &7$'
   ID: '58, 1'
   POSITION-X: 2
   POSITION-Y: 1
@@ -29,10 +29,10 @@ block_2:
 
 block_3:
   COMMAND: 'console: give {player} 61 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_table.yml'
-  PRICE: 10
+  PRICE: 30
   NAME: '&7Печь: 1 шт.'
   LORE:
-    - '&7Цена: &610 &7$'
+    - '&7Цена: &630 &7$'
   ID: '61, 1'
   POSITION-X: 3
   POSITION-Y: 1
@@ -62,10 +62,10 @@ block_5:
 
 block_6:
   COMMAND: 'console: give {player} 116 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_table.yml'
-  PRICE: 1500
+  PRICE: 3000
   NAME: '&7Стол зачарований: 1 шт.'
   LORE:
-    - '&7Цена: &61500 &7$'
+    - '&7Цена: &63000 &7$'
   ID: '116, 1'
   POSITION-X: 6
   POSITION-Y: 1
@@ -73,10 +73,10 @@ block_6:
 
 block_7:
   COMMAND: 'console: give {player} 130 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_table.yml'
-  PRICE: 1500
+  PRICE: 5000
   NAME: '&7Сундук Эндера: 1 шт.'
   LORE:
-    - '&7Цена: &61500 &7$'
+    - '&7Цена: &65000 &7$'
   ID: '130, 1'
   POSITION-X: 7
   POSITION-Y: 1
@@ -84,10 +84,10 @@ block_7:
 
 block_8:
   COMMAND: 'console: give {player} 145 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_table.yml'
-  PRICE: 1650
+  PRICE: 3050
   NAME: '&7Наковальня: 1 шт.'
   LORE:
-    - '&7Цена: &61650 &7$'
+    - '&7Цена: &63050 &7$'
   ID: '145, 1'
   POSITION-X: 8
   POSITION-Y: 1
@@ -106,7 +106,7 @@ block_9:
 
 block_10:
   COMMAND: 'console: give {player} 321 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_table.yml'
-  PRICE: 5
+  PRICE: 15
   NAME: '&7Картина: 1 шт.'
   LORE:
     - '&7Цена: &615 &7$'
@@ -120,7 +120,7 @@ block_11:
   PRICE: 5
   NAME: '&7Табличка: 1 шт.'
   LORE:
-    - '&7Цена: &615 &7$'
+    - '&7Цена: &65 &7$'
   ID: '323, 1'
   POSITION-X: 2
   POSITION-Y: 2
@@ -205,10 +205,10 @@ block_18:
 
 block_19:
   COMMAND: 'console: give {player} 416 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_table.yml'
-  PRICE: 30
+  PRICE: 120
   NAME: '&7Стойка для брони: 1 шт.'
   LORE:
-    - '&7Цена: &630 &7$'
+    - '&7Цена: &6120 &7$'
   ID: '416, 1'
   POSITION-X: 1
   POSITION-Y: 3
@@ -249,10 +249,10 @@ block_22:
 
 block_23:
   COMMAND: 'console: give {player} 327 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_table.yml'
-  PRICE: 20
+  PRICE: 20000
   NAME: '&7Ведро лавы: 1 шт.'
   LORE:
-    - '&7Цена: &620 &7$'
+    - '&7Цена: &620000 &7$'
   ID: '327, 1'
   POSITION-X: 5
   POSITION-Y: 3
@@ -271,10 +271,10 @@ block_24:
 
 block_25:
   COMMAND: 'console: give {player} 340 8; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_table.yml'
-  PRICE: 30
+  PRICE: 300
   NAME: '&7Книга: 8 шт.'
   LORE:
-    - '&7Цена: &630 &7$'
+    - '&7Цена: &6300 &7$'
   ID: '340, 8'
   POSITION-X: 7
   POSITION-Y: 3
@@ -348,10 +348,10 @@ block_31:
 
 block_32:
   COMMAND: 'console: give {player} 329 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_table.yml'
-  PRICE: 50
+  PRICE: 500
   NAME: '&7Седло: 1 шт.'
   LORE:
-    - '&7Цена: &650 &7$'
+    - '&7Цена: &6500 &7$'
   ID: '329, 1'
   POSITION-X: 5
   POSITION-Y: 4
@@ -359,10 +359,10 @@ block_32:
 
 block_33:
   COMMAND: 'console: give {player} 398 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_table.yml'
-  PRICE: 20
+  PRICE: 200
   NAME: '&7Удочка с морковью: 1 шт.'
   LORE:
-    - '&7Цена: &620 &7$'
+    - '&7Цена: &6200 &7$'
   ID: '398, 1'
   POSITION-X: 6
   POSITION-Y: 4
@@ -414,10 +414,10 @@ block_37:
 
 block_38:
   COMMAND: 'console: give {player} 419 1; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_table.yml'
-  PRICE: 175
+  PRICE: 1750
   NAME: '&7Алмазная конская броня: 1 шт.'
   LORE:
-    - '&7Цена: &6175 &7$'
+    - '&7Цена: &61750 &7$'
   ID: '419, 1'
   POSITION-X: 2
   POSITION-Y: 5
@@ -439,7 +439,7 @@ block_40:
   PRICE: 55
   NAME: '&7Удочка: 1 шт.'
   LORE:
-    - '&7Цена: &650 &7$'
+    - '&7Цена: &655 &7$'
   ID: '346, 1'
   POSITION-X: 4
   POSITION-Y: 5

@@ -34,7 +34,7 @@ menu-settings:
 #+                  +#
 ######################
 
-  
+
 1:
   COMMAND: 'rp'
   ENCHANTMENT: 'fire aspect, 1'
@@ -192,10 +192,9 @@ menu-settings:
   POSITION-X: 3
   POSITION-Y: 2
 21:
-  COMMAND: ''
-  ENCHANTMENT: 'fire aspect, 1'
-  NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'
-  ID: stained_glass_pane:15
+  COMMAND: 'open: donate2.yml'
+  NAME: '&c&l✦✦✦ &b&lДонат услуги &c&l✦✦✦'
+  ID: 322
   POSITION-X: 4
   POSITION-Y: 2
 22:
@@ -235,12 +234,6 @@ menu-settings:
   POSITION-X: 7
   POSITION-Y: 3
 27:
-  COMMAND: 'open: donate2.yml'
-  NAME: '&c&l✦✦✦ &b&lДонат услуги &c&l✦✦✦'
-  ID: 322
-  POSITION-X: 4
-  POSITION-Y: 2
-28:
   COMMAND: ''
   ENCHANTMENT: 'fire aspect, 1'
   NAME: '&c&l✦ &6&lВыйти из меню &c&l✦'

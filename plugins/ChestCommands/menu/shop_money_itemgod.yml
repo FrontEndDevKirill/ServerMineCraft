@@ -19,7 +19,7 @@ block_1:
 block_2:
   COMMAND: 'console: give {player} 384 16; sound: ENTITY_EXPERIENCE_BOTTLE_THROW, 3.0, 3.0; open:shop_money_itemgod.yml'
   PRICE: 4000
-  NAME: '&7Пузырек опыта: 1 шт.'
+  NAME: '&7Пузырек опыта: 16 шт.'
   LORE:
     - '&7Цена: &64000 &7$'
   ID: '384, 16'

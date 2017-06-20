@@ -7,7 +7,7 @@
 menu-settings:
 
   # name - appears as the title - REQUIRED
-  name: '               &l* &nДонат2&0&l *'
+  name: '               &l* &nДонат Услуги&0&l *'
 
   # rows - the num6er of rows of the chest - REQUIRED
   rows: 2
@@ -31,7 +31,7 @@ menu-settings:
 
 1:
   COMMAND: 'tell:&e&lПокупать донат у админа: &6&l&nFhavyre&4&lили на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
-  NAME: '&7[&cРазбан&7] &d15 &bрублей'
+  NAME: '&7[&cРазбан&7] &d50 &bрублей'
   LORE:
     - '&7[&2+&7] &bСнятие бана по причине: &7[&cЛЮБАЯ&7]'
   ID: wool
@@ -40,18 +40,18 @@ menu-settings:
   POSITION-Y: 1
 2:
   COMMAND: 'tell:&e&lПокупать донат у админа: &6&l&nFhavyre&4&lили на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
-  NAME: '&7[&cЗаказать Строителя&7] &d20-150 &bрублей'
+  NAME: '&7[&cКупить доллары 1000$&7] &d10 &bрублей'
   LORE:
-    - '&7[&2+&7] &bЛично вам построит дом на ГЛ.Админ &7[&cСТРОИТЕЛЬ&7]'
+    - '&7[&2+&7] &bВалюта сервера зачислеться вам на счет'
   ID: wool:1
   KEEP-OPEN: false
   POSITION-X: 2
   POSITION-Y: 1
 3:
   COMMAND: 'tell:&e&lПокупать донат у админа: &6&l&nFhavyre&4&lили на сайте &5[&6&l&ngoldmine.serverdonate.ru/&5]'
-  NAME: '&7[&cЛицензия на магазин&7] &bбесплатно'
+  NAME: '&7[&cЛицензия на магазин&7] &b1 рубль'
   LORE:
-    - '&7[&2+&7] &bОбратись к Fhavyre или zLane &7[&cОни дадут cЛицензию на магазин&7]'
+    - '&7[&2+&7] &bЛицензия нужна &7[&cЧто бы открыть свой магазин&7]'
   ID: wool:2
   KEEP-OPEN: false
   POSITION-X: 3

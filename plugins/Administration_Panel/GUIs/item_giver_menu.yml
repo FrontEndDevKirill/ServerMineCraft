@@ -5,19 +5,11 @@ slots: 54
 buttons:
 
   0:
-  
     type: GIVE_ITEM
-    
-    title: "&7Give Cobblestone"
-    
+    title: "&7GДать Камень"
     slot: 0
-    
-    item: COBBLESTONE
-    
+    item: 1
     data: 0
-    
     permission: "give-cobblestone"
-    
     lore:
-    
-      1: "&fGive Cobblestone."
+      1: "&fДать камень."
